@@ -1,5 +1,5 @@
 title = "Eleonora's Blog"
-baseURL = "http://localhost:1313/"
+baseURL = "https://aaltomcc.github.io/cs-ej4101-spring-2020-001-advanced/"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -34,5 +34,5 @@ enableRobotsTXT = true
   stackoverflow = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "images/mac2.jpg"
+  featured_image = "img/mac2.jpg"
   recent_posts_number = 2
