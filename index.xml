@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello world! on Eleonora&#39;s Blog</title>
+    <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-001-advanced/</link>
+    <description>Recent content in Hello world! on Eleonora&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2020 17:11:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-spring-2020-001-advanced/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning 001</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-001-advanced/post/secondpost/</link>
+      <pubDate>Fri, 21 Feb 2020 17:11:31 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-001-advanced/post/secondpost/</guid>
+      <description>Hi, it&amp;rsquo;s me again! In this blog post I would like to talk about what I&amp;rsquo;ve been learning by taking the course CS-EJ4101 &amp;ldquo;Introduction to DevOps&amp;rdquo;; maybe I can convince you to take it as well! This is a 1 ECTS course on DevOps, and consists of some quizzes about DevOps and a project. The project entices creating a blog using Hugo and then automatically deploying it using Travis CI.</description>
+    </item>
+    
+    <item>
+      <title>About this course 001</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-001-advanced/post/firstpost/</link>
+      <pubDate>Fri, 21 Feb 2020 16:21:11 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-001-advanced/post/firstpost/</guid>
+      <description>I chose to take this course because I needed to improve my grade for the course CS-E4100. So, I asked the professor if there was any way to do that, and he suggested I take this course. I thought that was a really good idea, since it would allow me to:
+ increase the grade; learn about DevOps; improve my skillset; learn more technologies, like Hugo and also Travis CI, that are very requested in industry.</description>
+    </item>
+    
+  </channel>
+</rss>
