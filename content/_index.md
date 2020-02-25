@@ -2,10 +2,10 @@
 title: "Hello world!"
 featured_image: "/images/bg.jpg"
 description: "A blog about me and my journey as a software engineering student."
-featured_image: "images/mac2.jpg"
+featured_image: "../images/mac2.jpg"
 ---
 
-# About meee
+# About me
 
 This is a blog where I'll be sharing my journey as a software engineering student.
 I'm going to talk about courses, challenges, friends and also a bit about myself and my passions.

@@ -6,10 +6,29 @@
     <description>Recent content in Posts on Eleonora&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 17:11:31 +0200</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning 001</title>
+      <link>http://localhost:1313/post/secondpost/</link>
+      <pubDate>Fri, 21 Feb 2020 17:11:31 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/secondpost/</guid>
+      <description>Hi, it&amp;rsquo;s me again! In this blog post I would like to talk about what I&amp;rsquo;ve been learning by taking the course CS-EJ4101 &amp;ldquo;Introduction to DevOps&amp;rdquo;; maybe I can convince you to take it as well! This is a 1 ECTS course on DevOps, and consists of some quizzes about DevOps and a project. The project entices creating a blog using Hugo and then automatically deploying it using Travis CI.</description>
+    </item>
+    
+    <item>
+      <title>About this course 001</title>
+      <link>http://localhost:1313/post/firstpost/</link>
+      <pubDate>Fri, 21 Feb 2020 16:21:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/firstpost/</guid>
+      <description>I chose to take this course because I needed to improve my grade for the course CS-E4100. So, I asked the professor if there was any way to do that, and he suggested I take this course. I thought that was a really good idea, since it would allow me to:
+ increase the grade; learn about DevOps; improve my skillset; learn more technologies, like Hugo and also Travis CI, that are very requested in industry.</description>
+    </item>
     
   </channel>
 </rss>
